@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+body {
+	background-image: url("24.jpg");
+	background-repeat: no-repeat, repeat;
+} 
+
+</style>
+
+</head>
+
+<body>
+
+</body>
+</html>
